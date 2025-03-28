@@ -1,7 +1,1 @@
-# study-tool
-# study-tool
-# study-tool
-# study-tool
-# study-tool
-# study-tool
-# study-tool
+A personal project that transforms any class or learning material into clear, detailed academic notes using GPT. Built for precision, quiz-aligned studying, and fast content refinement, with features like smart editing and PDF export. Designed to explore NLP, AI-assisted learning, and full-stack development.
