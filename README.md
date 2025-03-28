@@ -1,1 +1,20 @@
-An app that transforms any class or learning material into clear, detailed academic notes using GPT. Built for precision, quiz-aligned studying, and fast content refinement, with features like smart editing and human feedback loop. Designed to explore NLP, AI-assisted learning, and full-stack development.
+# 📚 Study Tool
+
+An ongoing project for generating and refining academic notes from raw learning material. Built to process content like lecture transcripts, textbook excerpts, and other class resources into structured, high-quality notes that are easier to study and review.
+
+## Current Features
+
+- Human-in-the-loop feedback system for iterative note improvement
+- Converts unstructured study material into clean, organized academic notes
+- Refines selected text without altering original formatting or structure
+
+## Purpose
+
+This project is being developed to streamline the study process by combining clarity-focused note formatting with interactive refinement. The aim is to support deep understanding while keeping the user in control of content quality.
+
+## Development Focus
+
+The tool is part of a broader exploration of NLP, AI-assisted learning, and full-stack development. It is actively evolving toward a more interactive platform with plans for features like:
+- Queryable note section
+- User-based organization and history
+- Improved content structuring using NLP techniques
