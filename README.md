@@ -1,6 +1,6 @@
 # 📚 Study Tool
 
-An ongoing project for generating and refining academic notes from raw learning material. Built to process content like lecture transcripts, textbook excerpts, and other class resources into structured, high-quality notes that are easier to study and review.
+An ongoing project that generates and refines academic notes from raw learning material. Built to process content like lecture transcripts, textbook excerpts, and other class resources into structured, high-quality notes that are easier to study and review.
 
 ## Current Features
 
