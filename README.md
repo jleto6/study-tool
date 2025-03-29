@@ -12,9 +12,8 @@ An ongoing project that generates and refines academic notes from raw learning m
 
 This project is being developed to streamline the study process by combining clarity-focused note formatting with interactive refinement. The aim is to support deep understanding while keeping the user in control of content quality.
 
-## Development Focus
-
 The tool is part of a broader exploration of NLP, AI-assisted learning, and full-stack development. It is actively evolving toward a more interactive platform with plans for features like:
 - Queryable note section
 - User-based organization and history
 - Improved content structuring using NLP techniques
+
